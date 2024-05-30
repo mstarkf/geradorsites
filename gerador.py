@@ -3,7 +3,7 @@ from io import BytesIO
 import base64
 
 def main():
-    st.title("Criar Landing Page  com Streamlit")
+    st.title("Criar Landing Page  com Streamlit de teste")
     
     # Campo de texto para o usuário digitar o contato
     contato = st.text_area("Digite seu contato (email e telefone):", height=50)
